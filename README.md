@@ -71,11 +71,7 @@ LinkedIn
 
 Kaggle
 
-CodeChef
-
 Google Forms
-
-Google Sheets
 
 # Report
 
