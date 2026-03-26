@@ -1,0 +1,1 @@
+Hi , visitor , My name is Riddhiman Dutta , I am in Computer Science and Engineering (Specialization in Artifical Intelligence and Machine Learning) Branch and my registration no. is 25BAI11325. My skills are: Python , HTML, CSS ,JavaScript, GUI, Tkinter. I wish to become a great developer and scientist in the field of AI and ML in the future.
