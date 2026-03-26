@@ -1,4 +1,4 @@
-# Digital-Litreacy-Project
+# Digital-Literacy-Project
 
 Introduction
 
